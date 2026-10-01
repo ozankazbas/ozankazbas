@@ -1,17 +1,19 @@
 # Ali Ozan Kazbaş
 
-Engineer building digital products and mobile games from early concept to production release.
+Engineer with a product-first approach, building and shipping mobile games from gameplay concept and experimentation to production release.
 
-My work combines product thinking, rapid prototyping, hands-on development, testing, monetization, and mobile release workflows.
+My work combines product thinking, gameplay design, rapid prototyping, iterative testing, monetization, and mobile release workflows.
 
 ## Featured Projects
 
 ### [Nunu Run](https://github.com/ozankazbas/nunu-run)
 **One-touch endless runner for iOS**
 
-A fast, colorful mobile game taken from prototype through native iOS packaging, TestFlight, monetization setup, consent management, and App Store submission.
+A fast, colorful casual game developed end-to-end with a focus on core gameplay, onboarding, difficulty progression, player feedback, monetization, and release readiness.
 
 `JavaScript` · `Vite` · `Capacitor` · `iOS` · `AdMob` · `Google UMP`
+
+**Product focus:** gameplay mechanics · first-time user experience · difficulty tuning · monetization flow · mobile release
 
 **Status:** App Store Review — Waiting for Review
 
@@ -20,20 +22,24 @@ A fast, colorful mobile game taken from prototype through native iOS packaging, 
 ### [BallRoll](https://github.com/ozankazbas/ballroll)
 **Mobile puzzle game with 100 handcrafted levels**
 
-A level-based mobile puzzle game developed as a production-ready web experience and packaged natively for iOS, with release hardening, persistence, lifecycle handling, and automated test coverage.
+A level-based puzzle game built around progression, difficulty pacing, player learning, persistence, and production-ready mobile behavior.
 
 `JavaScript` · `Vite` · `Capacitor` · `iOS`
 
+**Product focus:** level progression · puzzle design · difficulty pacing · player flow · QA and release hardening
+
 **Status:** iOS release preparation
 
-## What I Work On
+## Product & Game Development Focus
 
-- Product strategy and experimentation
-- Mobile game prototyping and iteration
-- Web-to-native mobile packaging
-- App Store and TestFlight release workflows
-- Analytics, monetization, and consent flows
-- AI-assisted product development
+- Designing gameplay mechanics and player flows
+- Iterating on onboarding, difficulty, and game feel through playtesting
+- Turning product hypotheses into testable gameplay decisions
+- Balancing player experience with monetization constraints
+- Structuring progression, persistence, retry, and completion flows
+- Mobile game market observation and product analysis
+- App Store, TestFlight, privacy, and release workflows
+- AI-assisted prototyping and product development
 
 ## Links
 
