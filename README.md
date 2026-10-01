@@ -1,4 +1,4 @@
-# Ali Ozan Kazbas
+# Ali Ozan Kazbaş
 
 Engineer building digital products and mobile games from early concept to production release.
 
@@ -13,7 +13,7 @@ A fast, colorful mobile game taken from prototype through native iOS packaging, 
 
 `JavaScript` · `Vite` · `Capacitor` · `iOS` · `AdMob` · `Google UMP`
 
-**Status:** Submitted to App Store Review
+**Status:** App Store Review — Waiting for Review
 
 ---
 
