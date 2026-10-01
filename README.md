@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ali Ozan Kazbas
 
-<!--
-**ozankazbas/ozankazbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer building digital products and mobile games from early concept to production release.
 
-Here are some ideas to get you started:
+My work combines product thinking, rapid prototyping, hands-on development, testing, monetization, and mobile release workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [Nunu Run](https://github.com/ozankazbas/nunu-run)
+**One-touch endless runner for iOS**
+
+A fast, colorful mobile game taken from prototype through native iOS packaging, TestFlight, monetization setup, consent management, and App Store submission.
+
+`JavaScript` · `Vite` · `Capacitor` · `iOS` · `AdMob` · `Google UMP`
+
+**Status:** Submitted to App Store Review
+
+---
+
+### [BallRoll](https://github.com/ozankazbas/ballroll)
+**Mobile puzzle game with 100 handcrafted levels**
+
+A level-based mobile puzzle game developed as a production-ready web experience and packaged natively for iOS, with release hardening, persistence, lifecycle handling, and automated test coverage.
+
+`JavaScript` · `Vite` · `Capacitor` · `iOS`
+
+**Status:** iOS release preparation
+
+## What I Work On
+
+- Product strategy and experimentation
+- Mobile game prototyping and iteration
+- Web-to-native mobile packaging
+- App Store and TestFlight release workflows
+- Analytics, monetization, and consent flows
+- AI-assisted product development
+
+## Links
+
+- [Developer Website](https://ozankazbas.github.io)
+- [Nunu Run Showcase](https://github.com/ozankazbas/nunu-run)
+- [BallRoll Showcase](https://github.com/ozankazbas/ballroll)
